@@ -4,7 +4,9 @@ A prototype decision-support platform for Antarctic research vessels.
 
 ## How to Run
 
-### Backend
+##Backend
+
+Open PowerShell in the project root and run:
 
 cd backend
 python -m venv venv
@@ -56,7 +58,3 @@ DOI: 10.7265/b18j-z797
 
 Icebergs:
 U.S. National Ice Center (USNIC)
-
-## Disclaimer
-
-This is an academic research/demo prototype. It must not be used as a substitute for official maritime navigation systems, charts, ice services, or professional navigation decisions.
